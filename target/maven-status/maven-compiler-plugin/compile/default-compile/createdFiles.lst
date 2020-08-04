@@ -1,0 +1,16 @@
+com\jithu\tasks\FetchMyTask.class
+com\jithu\tasks\FetchAssignTask.class
+com\jithu\db\CheckUser.class
+com\jithu\db\UpdateStatusDB.class
+com\jithu\logout\Logout.class
+com\jithu\register\Register.class
+com\jithu\db\FetchCompletedTasks.class
+com\jithu\tasks\UpdateTask.class
+com\taskTracker\login\Login.class
+com\jithu\tasks\AssignTask.class
+com\jithu\db\AddTask.class
+com\jithu\db\MyTaskFetcher.class
+com\jithu\tasks\FetchCompletedTask.class
+com\jithu\db\DataBaseOps.class
+com\jithu\db\AssignedTaskFetcher.class
+com\jithu\db\AuthUser.class
